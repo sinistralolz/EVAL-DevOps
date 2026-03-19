@@ -2,7 +2,7 @@ name: CI - Vérrification HTML
 
 on:
  push:
-  branches: [ "PRO" ]
+  branches: [ "VERIF" ]
  pull_request:
   branches: [ "PRO" ]
 
