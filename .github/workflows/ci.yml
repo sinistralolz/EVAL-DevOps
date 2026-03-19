@@ -2,9 +2,9 @@ name: CI - Vérrification HTML
 
 on:
  push:
-  branches: [ "VERIF" ]
+  branches: [ "PRO" ]
  pull_request:
-  branches: [ "VERIF" ]
+  branches: [ "PRO" ]
 
 jobs:
  test-html:
