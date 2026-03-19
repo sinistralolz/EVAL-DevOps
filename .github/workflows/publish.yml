@@ -2,7 +2,7 @@ name: Installation et Publication de l’application
 
 on:
   push:
-    branches: [PRO]
+    branches: [production]
 
 jobs:
   deploy:
